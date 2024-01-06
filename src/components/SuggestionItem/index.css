@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.user-container {
+  display: flex;
+  justify-content: space-between;
+}
+.item-btn {
+  border: 0px;
+  background: none;
+}
+.img-url {
+  height: 20px;
+}
